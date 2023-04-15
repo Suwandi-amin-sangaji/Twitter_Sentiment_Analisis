@@ -61,6 +61,6 @@ plotly
 tweepy
 textblob
 seaborn
-PIL
+Pillow
 
 
