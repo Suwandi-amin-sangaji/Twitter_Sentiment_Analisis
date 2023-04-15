@@ -1,5 +1,4 @@
 import streamlit as st
-from textblob import TextBlob
 import textblob
 import re
 from tweepy import OAuthHandler
