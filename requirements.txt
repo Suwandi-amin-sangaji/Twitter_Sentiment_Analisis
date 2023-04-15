@@ -45,7 +45,6 @@ tzlocal==4.3
 urllib3==1.26.15
 validators==0.20.0
 zipp==3.15.0
-streamlit
 numpy
 pandas
 matplotlib
@@ -55,7 +54,6 @@ pillow
 wordcloud
 sastrawi
 regex
-svm
 openpyxl
 plotly
 tweepy
