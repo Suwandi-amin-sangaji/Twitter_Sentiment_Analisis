@@ -59,6 +59,5 @@ plotly
 tweepy
 textblob
 seaborn
-Pillow
 
 
