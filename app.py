@@ -59,10 +59,10 @@ def scraping():
         st.caption('© SoorngDev 2023')
     st.title("Scraping Data")
     ################# Twitter API Connection #######################
-    consumer_key = "P1DzgreWqH4jJRRZGYjVsnyOl"
-    consumer_secret = "sZlrqDzxumdhvvn3JM4r5G8VSyIeU8Nq2jf1bL4yDWwaKFxxD4"
-    access_token = "1217082892586602496-if2NPUJqGvhYkUyRBtfefVRZ4czPca"
-    access_token_secret = "gz5adcJrQW6gpl6KfErOwAONr1o71Dp3WCd5mkJT7r0o0"
+    consumer_key = "G78WvC15joHQSm684TmbndRIi"
+    consumer_secret = "1A86aa9LHMhld6RcZ6uzY6mHK1uwyRzc6NItOWQnEqzNjJOgTN"
+    access_token = "1217082892586602496-cS34YUphJBuTMrqQ1bd3b2tfCWNA9q"
+    access_token_secret = "A90u1oI6wO8eTpvwaLP0zXvsEooe14upinpfDasmQF9RV"
 
     # Use the above credentials to authenticate the API.
 
