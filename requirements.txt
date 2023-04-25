@@ -56,7 +56,7 @@ sastrawi
 regex
 openpyxl
 plotly
-tweepy
+tweepy==4.14.0
 textblob
 seaborn
 
